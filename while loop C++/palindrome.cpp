@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 int main(){
     int n=121, temp, rev=0;
     temp=n;
