@@ -10,7 +10,9 @@ int main(){
     cin>> b;
     cout<<"enter value of c: ";
     cin>> c;
-    if((a>b)&&(a>c)){
+    if((a==b)&&(a==c)){
+        cout<<"all are equal";
+    } else if((a>b)&&(a>c)){
         cout<<"a is greater ";
     } else if((b>a)&&(b>c)){
         cout<<"b is greater ";
