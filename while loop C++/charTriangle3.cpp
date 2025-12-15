@@ -1,7 +1,7 @@
 /*  A
     B C
     C D E
-    D E F I  */
+    D E F G  */
 #include <iostream>
 using namespace std;
 
