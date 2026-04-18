@@ -1,3 +1,5 @@
+// print num fromm 1 to n
+
 #include <iostream>
 using namespace std;
 
