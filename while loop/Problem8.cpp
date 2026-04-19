@@ -1,23 +1,23 @@
-/*  1 1 1
-    2 2 2
-    3 3 3  */
+/*  1 2 3 
+    1 2 3 
+    1 2 3  */
 
 #include <iostream>
 using namespace std;
 
 int main(){
     int n;
-    cout<<"Enter value of n: ";
+    cout<<"Enter the value of n: ";
     cin>>n;
     int i = 1;
 
     while(i<=n){
         int j = 1;
         while(j<=n){
-            cout << i << " ";
+            cout<< j << " ";
             j++;
         }
-        cout<<endl;
+        cout<< endl;
         i++;
     }
     return 0;
