@@ -1,3 +1,5 @@
+// Find sum and average of an array
+
 #include <iostream>
 using namespace std;
 

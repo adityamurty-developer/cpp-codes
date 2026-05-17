@@ -1,3 +1,5 @@
+// Find minimum in array
+
 #include <iostream>
 using namespace std;
 

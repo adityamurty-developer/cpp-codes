@@ -1,3 +1,4 @@
+// Find maximum in array
 #include <iostream>
 using namespace std;
 
